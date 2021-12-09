@@ -16,6 +16,8 @@
   *
   ******************************************************************************
   */
+  /*Proyecto de libreria de controladores graficos pequeños con Frame Buffer*/
+
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
